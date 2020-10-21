@@ -1,0 +1,24 @@
+.list-friends {
+  padding: 4rem;
+
+  .list-null {
+    width: 100%;
+    min-height: calc(100vh - 13.6rem);
+
+    p {
+      color: #fff;
+      font-size: 2.4rem;
+    }
+
+    img {
+      width: 5rem;
+      height: 5rem;
+      margin-bottom: 1rem;
+    }
+  }
+}
+
+.rs-input-group {
+  margin: 20px 0 0 50px;
+  width: 30%;
+}
