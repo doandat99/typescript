@@ -33,9 +33,6 @@ const FiendLists = () => {
     <div>
       <InputGroup>
         <input onChange={handleInput} />
-        <InputGroup.Addon>
-          <Icon icon="search" />
-        </InputGroup.Addon>
       </InputGroup>
       <div className="list-friends d-flex flex-wrap ">
         {dataList.map((item) => (

@@ -21,4 +21,9 @@
 .rs-input-group {
   margin: 20px 0 0 50px;
   width: 30%;
+
+  input {
+    width: 100%;
+    padding: 7px 0;
+  }
 }
